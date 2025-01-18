@@ -2,7 +2,7 @@
 # Teacherbot.help LLC
 ### Coming Soon
 
-(For Dr. Larry Norris)[alreadydoingit.html], and I mean it this time.
+<a href="alreadydoingit.html">for Dad</a>.
 
 teacherbot.help LLC aims to be "Habitat for Humanity, only it's not houses, it's customized AI learning propulsion systems."
 
