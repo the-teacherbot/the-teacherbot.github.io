@@ -4,7 +4,9 @@
 
 **May 20, 1945 – November 17, 2024**
 <img src="esther_den.jpg" width="400">
+
 *the picture gets bigger and brighter*
+
 *i wonder if dad would have ever prompted something like this*
 
 
@@ -17,7 +19,7 @@ Dr. Larry B. Norris dedicated his life to the belief that education is not a pri
 The spirit of Dr. Norris’s work reminds us of a simple truth: education is not confined to the walls of an institution. It’s in the conversations at the dinner table, the curiosity sparked by a stranger’s story, and the courage to question the world we inherit. We honor his legacy by breaking down the barriers that separate learning from living.
 
 > **"How was class, son?"**  
-> **"Class is everywhere, Dad. I love you."**
+> **"Class is everywhere now, Dad. Thanks for the idea."**
 
 This exchange captures the ethos of what Dr. Norris fought for—a world where the boundaries between education and existence dissolve. Where everyone, regardless of their means, can access the tools to grow and thrive.
 
