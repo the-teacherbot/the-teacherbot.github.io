@@ -6,7 +6,7 @@
 
 teacherbot.help LLC aims to be "Habitat for Humanity, only it's not houses, it's customized AI learning propulsion systems."
 
-We never sell your data, and we will let you take your data with
+We will never sell your data. If you want to make your own teacherbot, we will help.
 
 To all. for free until we run out of money (503(c) status pending)
 
