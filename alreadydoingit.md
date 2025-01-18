@@ -3,7 +3,10 @@
 **Dr. Larry B. Norris: A Legacy of Education for All**
 
 **May 20, 1945 – November 17, 2024**
-<img src="esther_den.jpg" width="200">
+<img src="esther_den.jpg" width="400">
+*the picture gets bigger and brighter*
+*i wonder if dad would have ever prompted something like this*
+
 
 Dr. Larry B. Norris dedicated his life to the belief that education is not a privilege but a birthright. Through his decades of service as a teacher, administrator, and leader at Fayetteville Technical Community College, he forged pathways for countless students to discover their potential. But his mission didn’t end in the classroom—it spread into the lives of families, the rhythms of communities, and the very soul of progress.
 
