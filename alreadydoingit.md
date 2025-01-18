@@ -62,9 +62,11 @@ This manifesto is not just a tribute—it’s a battle cry. Let’s take the les
 ### **In His Own Words**
 
 > "Teaching isn’t about what you say. It’s about what you inspire. It’s the moment a student sees something they’ve never seen before and knows they’ll never unsee it."
-'''he never said that'''
+
+'''he never said that one, AI'''
+
 > **"You’re already doing it."**
-'''every. single. fucking. day.'''
+'''he said that it every day.'''
 ---
 
 **Dr. Larry B. Norris, thank you for showing us that class is everywhere.**
