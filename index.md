@@ -3,8 +3,13 @@
 For Dr. Larry Norris.
 
 teacherbot.help LLC aims to be "Habitat for Humanity, only it's not houses, it's customized AI learning propulsion systems."
-To all. for free. or i guess until we run out of money (503(c) status pending)
+
+To all. for free. 
+
+or i guess until we run out of money (503(c) status pending)
 
 Also adaptive technology. We did say *all*.
 
 ```THIS PAGE UNDER CONSTRUCTION ORANGE SIGN EMOJI```
+
+PS: I'm putting $100k of my money into this, get in
