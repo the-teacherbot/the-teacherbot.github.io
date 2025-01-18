@@ -14,5 +14,7 @@ Also adaptive technology. We did say *all*.
 
 ```THIS PAGE UNDER CONSTRUCTION ORANGE SIGN EMOJI```
 
-PS: I'm putting $100k of my money into this, get in
+PS: I'm putting $10k of my money into this, get in.
+
+
 <img src="esther_den.jpg" width="200">
