@@ -1,6 +1,8 @@
 ```this page is literally the only part of this project i did not use AI on```
+# Teacherbot.help LLC
+### Coming Soon
 
-<a href="alreadydoingit.html">For Dr. Larry Norris,</a> with feeling this time.
+[For Dr. Larry Norris[alreadydoingit.html], I mean it this time.
 
 teacherbot.help LLC aims to be "Habitat for Humanity, only it's not houses, it's customized AI learning propulsion systems."
 
