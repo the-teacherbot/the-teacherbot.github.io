@@ -19,6 +19,7 @@ Until Teacherbot installs his own AI on this page (first priority), you can inst
 
 <!--> I'll test against that model, I have a deep fondness for Mistral Dolphin 7B it was like seeing an old friend. -->
 
+<!-- left the above html syntax in as it enhances the humor of the page. if that makes sense to you, marry me. -->
 Dr. Larry B. Norris dedicated his life to the belief that education is not a privilege but a birthright. Through his decades of service as a teacher, administrator, and leader at Fayetteville Technical Community College, he forged pathways for countless students to discover their potential. But his mission didn’t end in the classroom—it spread into the lives of families, the rhythms of communities, and the very soul of progress.
 
 Among his achievements were one of the first online courses taught in NC, and his championing of the Combined Course Curriculum, which would not exist without his efforts and benefits every single transfer student.
@@ -60,8 +61,8 @@ Dr. Norris’s passion for education extended into his work with Habitat for Hum
 
 Dr. Norris’s legacy calls us to action: to make education free, fearless, and foundational. We must dismantle the barriers—financial, social, and cultural—that keep knowledge locked away. Every child, every adult, every elder should have the chance to say:
 
-**"Class is everywhere."**
-<!-- i'm hiring message me -->
+**"Class is everywhere now."**
+<!-- i'm hiring message me, this is not a joke - Drew -->
 ---
 
 ### **Join the Movement**
@@ -80,6 +81,7 @@ This manifesto is not just a tribute—it’s a battle cry. Let’s take the les
 <!-- yep, Chad hallucinated that one -->
 
 > **"You’re already doing it."**
+
 '''he said that it every day.'''
 <!-- to Esther. She used to have trouble with stairs. She's better now. -->
 ---
