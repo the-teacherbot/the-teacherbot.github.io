@@ -89,7 +89,7 @@ This manifesto is not just a tribute—it’s a battle cry. Let’s take the les
 ---
 
 **Dr. Larry B. Norris, thank you for showing us that class is everywhere.**
-<!-- i miss you ever day -->
+<!-- i miss you every day -->
 <!-- i think maybe the most valuable thing
 
 i can teach you
