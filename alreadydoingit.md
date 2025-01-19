@@ -11,6 +11,10 @@ i was a very bad photographer but i promise him i'll get better -->
 <!-- prompt can you write me a learning strategy like Richard Bandler would use to propel me to succeed -->
 *i wonder if dad would have ever prompted something like this*
 
+### USER NOTE FOR THIS PAGE
+Until Teacherbot installs his own AI on this page (first priority), you can install Firefox and the <a href="https://orbybymozilla.com/"Orbit plugin.</a>. Feel free to ask questions!
+
+<!--> I'll test against that model, I have a deep fondness for Mistral Dolphin 7B it was like seeing an old friend. -->
 
 Dr. Larry B. Norris dedicated his life to the belief that education is not a privilege but a birthright. Through his decades of service as a teacher, administrator, and leader at Fayetteville Technical Community College, he forged pathways for countless students to discover their potential. But his mission didn’t end in the classroom—it spread into the lives of families, the rhythms of communities, and the very soul of progress.
 
