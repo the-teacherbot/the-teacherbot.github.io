@@ -4,11 +4,14 @@
 
 **May 20, 1945 – November 17, 2024**
 <img src="esther_den.jpg" width="400">
+
 <!-- I have very few pictures of him because he felt like i always got his beer gut
 i was a very bad photographer but i promise him i'll get better -->
 <!-- content warning my comments will get raw and emotional, this is my therapy for now -->
+
 *the picture gets bigger and brighter*
 <!-- prompt can you write me a learning strategy like Richard Bandler would use to propel me to succeed -->
+
 *i wonder if dad would have ever prompted something like this*
 
 ### USER NOTE FOR THIS PAGE
