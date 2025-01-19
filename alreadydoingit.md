@@ -19,7 +19,7 @@ Until Teacherbot installs his own AI on this page (first priority), you can inst
 
 <!--> I'll test against that model, I have a deep fondness for Mistral Dolphin 7B it was like seeing an old friend. -->
 
-<!-- left the above html syntax in as it enhances the humor of the page. if that makes sense to you, marry me. -->
+<!-- left the above html syntax error in as it enhances the humor of the page. if that makes sense to you, i owe you lunch. -->
 Dr. Larry B. Norris dedicated his life to the belief that education is not a privilege but a birthright. Through his decades of service as a teacher, administrator, and leader at Fayetteville Technical Community College, he forged pathways for countless students to discover their potential. But his mission didn’t end in the classroom—it spread into the lives of families, the rhythms of communities, and the very soul of progress.
 
 Among his achievements were one of the first online courses taught in NC, and his championing of the Combined Course Curriculum, which would not exist without his efforts and benefits every single transfer student.
