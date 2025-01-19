@@ -1,4 +1,4 @@
-### The Norris Manifesto
+### The Way Dad Did It -- You're Already Doing It.
 
 **Dr. Larry B. Norris: A Legacy of Education for All**
 
